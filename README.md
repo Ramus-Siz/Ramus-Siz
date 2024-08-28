@@ -1,5 +1,5 @@
 # 💫 Who am I ?:
-Hi, I'm Richard Rafiki (Ramus-siz)  <br>🔭 I’m currently working on Javascript React js,Next js Projects<br>🌱 I’m currently learning Devops Skills<br>📫 [![My portfolio]](https://richard-rafiki-portfolio.vercel.app)
+Hi, I'm Richard Rafiki (Ramus-siz)  <br>🔭 I’m currently working on Javascript React js,Next js Projects<br>🌱 I’m currently learning Devops Skills<br>📫 [My portfolio](https://richard-rafiki-portfolio.vercel.app)
 
 
 ## 🌐 Socials:
